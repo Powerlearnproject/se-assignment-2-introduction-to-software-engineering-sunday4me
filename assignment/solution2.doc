@@ -17,3 +17,17 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Requirements Engineering:
 
 Agile and Waterfall are two popular methods for organizing projects. Waterfall is a more traditional approach to project management, involving a linear flow. Agile, on the other hand, embraces an iterative process. It involves rapid actions and great flexibility.
+
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Requirements engineering is the process of defining, documenting, and maintaining requirements. It involves activities like elicitation, analysis, specification, and verification to ensure software meets stakeholders' needs. Proper management improves project clarity, reduces errors, and aligns expectations.
+
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+At its core, modularity aims to improve software development by partitioning complex problems into more manageable sub-problems. By breaking down a large software system into smaller modules, developers can focus on writing code that is easier to understand, test, and maintain
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+As software becomes entrenched in every aspect of the human experience, developers have an ethical responsibility to their customers.
+addictive design;
+corporate ownership of personal data;
+algorithmic bias;
+weak cyber security and personally identifiable information (PII) protection; and.
+overemphasis on features.
