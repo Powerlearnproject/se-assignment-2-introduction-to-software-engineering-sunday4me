@@ -1,0 +1,19 @@
+Define Software Engineering?
+Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications.
+
+What is software engineering, and how does it differ from traditional programming?
+Software Development Life Cycle (SDLC):
+Programming is centered around the code, software engineering is extended over the entire lifecycle of the software, from conception to maintenance, emphasizing a structured and methodical approach to software development.
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+The phases include requirements, design, implementation, testing, deployment, and maintenance. This model involves repetitive cycles of development, allowing for feedback and improvement in each iteration. Phases are often repeated until the final product is achieved with success.
+
+SDLC comprises seven different stages: planning, analysis, design, development, testing, implementation, and maintenance.
+
+Provide a brief description of each phase  between Agile vs. Waterfall Models:
+Agile is open to adaptation, encourages experimentation and welcomes changes of direction, even in later phases of the project. Because of this, the budget tends to be more flexible. Waterfall is a linear project progression, so it's best suited for projects with a defined end goal.
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Requirements Engineering:
+
+Agile and Waterfall are two popular methods for organizing projects. Waterfall is a more traditional approach to project management, involving a linear flow. Agile, on the other hand, embraces an iterative process. It involves rapid actions and great flexibility.
